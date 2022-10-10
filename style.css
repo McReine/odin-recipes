@@ -1,0 +1,12 @@
+img {
+ width: 800px;
+ height: auto;
+}
+.recipe-buttons button{
+    font-style: Helvetica, "times new roman", serif, verdana;
+    font-size: 40px;
+    background-color: green;
+}
+h1 ,h2, h3, h4, h5, h6 {
+    text-align: center;
+}
